@@ -1,0 +1,12 @@
+body {
+    width: 550px;
+    height: 150px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+h1 {
+    font-size: 150px;
+    color: lime;
+    font-family: LCD;
+}
